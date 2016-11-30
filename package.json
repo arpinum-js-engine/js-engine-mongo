@@ -1,5 +1,5 @@
 {
-  "name": "@arpinum/js-engine-mongo",
+  "name": "@arpinum/mongo",
   "version": "0.0.1",
   "description": "",
   "main": "./lib/index.js",
