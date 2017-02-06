@@ -26,7 +26,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4.16.6",
-    "node-uuid": "1.4.7"
+    "node-uuid": "1.4.7",
+    "tcomb": "3.2.16"
   },
   "devDependencies": {
     "chai": "3.5.0",
