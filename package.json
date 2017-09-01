@@ -14,7 +14,7 @@
     "preversion": "npm test",
     "postversion": "git push && git push --tags && npm publish"
   },
-  "repository": "arpinum-js-engine/js-engine-mongo",
+  "repository": "arpinum-js-engine/js-mongo",
   "keywords": [
     "DDD",
     "CQRS",
@@ -25,7 +25,7 @@
   "author": "Arpinum",
   "license": "MIT",
   "dependencies": {
-    "@arpinum/ddd": "arpinum-js-engine/js-engine-ddd",
+    "@arpinum/ddd": "arpinum-js-engine/js-ddd",
     "lodash": "4.16.6",
     "node-uuid": "1.4.7",
     "tcomb": "3.2.16"

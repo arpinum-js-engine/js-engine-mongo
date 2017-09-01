@@ -1,4 +1,4 @@
-# js-engine-mongo [![Build Status](https://travis-ci.org/arpinum-js-engine/js-engine-mongo.svg?branch=master)](https://travis-ci.org/arpinum-js-engine/js-engine-mongo)
+# js-mongo [![Build Status](https://travis-ci.org/arpinum-js-engine/js-mongo.svg?branch=master)](https://travis-ci.org/arpinum-js-engine/js-mongo)
 
 ## License
 
