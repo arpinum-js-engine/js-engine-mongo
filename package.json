@@ -14,7 +14,7 @@
     "preversion": "npm test",
     "postversion": "git push && git push --tags && npm publish"
   },
-  "repository": "arpinum-js-engine/js-mongo",
+  "repository": "arpinum/js-mongo",
   "keywords": [
     "DDD",
     "CQRS",
